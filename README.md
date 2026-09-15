@@ -14,5 +14,5 @@ Multi-Explorer is a multi-window explorer program designed to maximize your prod
 ## 🚀 Installation & Usage
 
 **Using the Executable**
-1. Download the latest version from the [Releases](repository_releases_link) page on the right sidebar.
+1. Download the latest version from the [Releases] page on the right sidebar.
 2. Extract the downloaded archive and run `[MultiExplorer.exe]`.
